@@ -14,8 +14,7 @@
         WebFont.load({google:{families: ['Open+Sans:400,700']}});
         </script>
 5. Minified css and js used.
-6. Added style="width: 100px; height: 50px;" for each image
-7. used media property to not consider print.css when not printing
+6. used media property to not consider print.css when not printing
     ```<link href="css/style.css" rel="stylesheet" media="print"> ```
 
 ### Changes in main.js (frontend-mobile-portfolio/views/js/main.js)
