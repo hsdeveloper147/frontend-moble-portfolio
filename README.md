@@ -66,6 +66,7 @@
   ``` var movingPizza = document.getElementById("movingPizzas1"); '''
 4. Changed the number of loop iterations from 200 to 24 (multiple of 8 i.e no. of columns)
   ```for (var i = 0; i < 24; i++) { ... } ```
+  
 5. Whenever to access an element by Id used getElementById instead of querySelector.
 
 
